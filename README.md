@@ -30,7 +30,7 @@ Collaboration for this project will be done using Slack & Zoom
 
 * The model is an imbalanced dataset. So many of the over sampling type of algorithms were used to see which one was better at classifying people as either looking or not looking for a job. The gradient boosting model had the best precision and recall when it came to classifying people not looking for a job.
 
-*The limitations of this model are that its prone to overfitting, sensitive to outliers, and doesn’t perform well on unsupervised learning data.
+* The limitations of this model are that its prone to overfitting, sensitive to outliers, and doesnâ€™t perform well on unsupervised learning data.
 
-*The benefits of this model are its robustness, able to handle datasets with missing data points, works well with categorical and numerical values.  
+* The benefits of this model are its robustness, able to handle datasets with missing data points, works well with categorical and numerical values.  
 
