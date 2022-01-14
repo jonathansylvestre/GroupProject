@@ -1,5 +1,5 @@
 # GroupProject Outline
-
+#
 ## Topic 
 The data provided presents insight on whether or not potential job candidates truthfully want to work as Data Scientists for the company or are only going through the hiring process as a way to obtain free training and use it to land positions elsewhere. Human resource researchers are trying to pinpoint certain factors in these candidates to reduce attrition and save on training expenses.
 
@@ -30,3 +30,5 @@ Collaboration for this project will be done using Slack & Zoom
 
 * The model is an imbalanced dataset. So many of the over sampling type of algorithms were used to see which one was better at classifying people as either looking or not looking for a job. The gradient boosting model had the best precision and recall when it came to classifying people not looking for a job.
 
+## Google Slides Link
+https://docs.google.com/presentation/d/19yvc5F5R0JqQpFqk51--OJlVQDhfmNVJW1na33b-64M/edit?usp=sharing
