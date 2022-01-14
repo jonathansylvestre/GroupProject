@@ -9,3 +9,5 @@ https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?selec
 In this project we wish to find out what key indicators will enable the HR researchers to make effective hiring decisions when considering applicants who have passed their trainings based on education, experience, and origin city.
 ## Communication Protocols
 Collaboration for this project will be done using Slack & Zoom
+## Google Slides Link
+https://docs.google.com/presentation/d/19yvc5F5R0JqQpFqk51--OJlVQDhfmNVJW1na33b-64M/edit?usp=sharing
