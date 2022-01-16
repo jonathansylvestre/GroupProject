@@ -40,10 +40,12 @@ Collaboration for this project will be done using Slack & Zoom
 
 ![](https://github.com/jonathansylvestre/GroupProject/blob/Moussavou/Resources/Capture%202.PNG)
 
-Our second table entitled "Results" was created using the connection we established between our jupyter notebook file using the code below. 
+For our second table entitled "Results" was created using the connection we established between our jupyter notebook file using the code below. After we combined the results of our model with our original/cleaned data. 
 
 ![](https://github.com/jonathansylvestre/GroupProject/blob/Moussavou/Resources/Capture.PNG)
 
 ## Dashboard
 
-Once our tables were saved in our databases, we moved on to the next step which is to create a dashboard using our predictions. 
+Once our tables were saved in our databases, we moved on to the next step which was to create a dashboard using our predictions. For this part of our project, we selected Tableau Software to create our visualizations for our results. We created multiple visuals which we combined in order to create our dashboard which can be seen below: 
+
+![](
