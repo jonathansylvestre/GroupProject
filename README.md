@@ -34,3 +34,8 @@ Collaboration for this project will be done using Slack & Zoom
 
 * The benefits of this model are its robustness, able to handle datasets with missing data points, works well with categorical and numerical values.  
 
+## Database
+
+  Once we identified the best model for the data selected, we moved on to the next step which was to integrate a database to store both the cleaned data and our results. For this part of the project, we selected PostgreSQL which is a free and open-source relational database management system emphasizing extensibility and SQL compliance. As we had previous experience with PostgreSQL via pgAdmin 4, it was only right that we use this tool in order to complete this task. We started by creating an entity relationship diagram (ERD) to provide a visual starting point for database design that can also be used to help determine information system requirements. Once that was complete we created the database (Job Changes) where we would save our tables. Once the database was created, we built our first table using a downloaded cleaned data CSV file from our jupiter notebook file. Before importing the CSV, we created the table and columns required to import the CSV. Using the import wizard we were able load the data from the CSV to the  previously created table and respective columns. Our second table was created using the connection we created between our jupyter notebook file using the code below. 
+
+![](
