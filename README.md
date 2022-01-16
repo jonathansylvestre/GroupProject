@@ -48,4 +48,6 @@ For our second table entitled "Results" was created using the connection we esta
 
 Once our tables were saved in our databases, we moved on to the next step which was to create a dashboard using our predictions. For this part of our project, we selected Tableau Software to create our visualizations for our results. We created multiple visuals which we combined in order to create our dashboard which can be seen below: 
 
-![](
+![](https://github.com/jonathansylvestre/GroupProject/blob/Moussavou/Resources/Who%20is%20in%20the%20job%20market.png)
+
+
