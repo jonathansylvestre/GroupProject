@@ -1,5 +1,5 @@
 # GroupProject Outline
-#
+
 ## Topic 
 The data provided presents insight on whether or not potential job candidates truthfully want to work as Data Scientists for the company or are only going through the hiring process as a way to obtain free training and use it to land positions elsewhere. Human resource researchers are trying to pinpoint certain factors in these candidates to reduce attrition and save on training expenses.
 
@@ -13,7 +13,7 @@ https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?selec
 In this project we wish to find out what key indicators will enable the HR researchers to make effective hiring decisions when considering applicants who have passed their trainings based on education, experience, and origin city.
 
 ## Communication Protocols
-Collaboration for this project will be done using Slack & Zoom. Meetings will be held during class sessions and also each Sunday to review all work that has been pushed to the repository.
+Collaboration for this project will be done using Slack & Zoom
 
 ## Preliminary Preprocessing 
 
@@ -30,5 +30,10 @@ Collaboration for this project will be done using Slack & Zoom. Meetings will be
 
 * The model is an imbalanced dataset. So many of the over sampling type of algorithms were used to see which one was better at classifying people as either looking or not looking for a job. The gradient boosting model had the best precision and recall when it came to classifying people not looking for a job.
 
-## Google Slides Link
-https://docs.google.com/presentation/d/19yvc5F5R0JqQpFqk51--OJlVQDhfmNVJW1na33b-64M/edit?usp=sharing
+* The limitations of this model are that its prone to overfitting, sensitive to outliers, and doesn’t perform well on unsupervised learning data.
+
+* The benefits of this model are its robustness, able to handle datasets with missing data points, works well with categorical and numerical values.
+
+## Database
+
+  Once we identified the best model for the data selected, we moved on to the next step which was to integrate a database to store both the cleaned data and our results. After reviewing the results of the model, we then combined our results with the cleaned data in order to have all the data in one table or dataframe. When dealing with the data storage part of the project, we selected PostgreSQL which is a free and open-source relational database management system emphasizing extensibility and SQL compliance. As we had previous experience with PostgreSQL via pgAdmin 4, it was only right that we use this tool in order to complete this task. We started by creating an entity relationship diagram (ERD) to provide us with a visual starting point for database design that could also be used to help determine information system requirements. Once that was complete we created the database (Job Changes) where we would save our tables. Once the database was created, we built our first table using a downloaded cleaned data CSV file from our jupiter notebook file. Before importing the CSV, we had to created the table and columns required to correctly import the information on the CSV. Using the import wizard we were able load the data from the CSV to the  previously created table and respective columns. 
