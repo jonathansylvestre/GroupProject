@@ -40,18 +40,19 @@ Collaboration for this project will be done using Slack & Zoom
 
 ## Dashboard
 
-Once our tables are saved in our database, we are able to move on to our next step which is which is to create a dashboard using our predictions. For this of our project, we will be selecting Tableau Software to create our visualizations for our results. We will create multiple multiple visuals which we combined in order to create our dashboardwhich can be seen below. 
+Once our tables are saved in our database, we are able to move on to our next step which is which is to create a dashboard using our predictions. For this of our project, we will be selecting Tableau Software to create our visualizations for our results. We will create multiple visuals which will be combined in order to create our dashboard as seen below. 
 
 ![](https://github.com/jonathansylvestre/GroupProject/blob/main/Resources/Who%20is%20in%20the%20job%20market.png)
 
 In order to create these displays, we will be downloading our "Results" table from our database to a CSV in order to upload it to Tableau. Once we have successfully uploaded the table into tableau, we can begin creating our visualizations on each sheet. 
 
  - Using the "Prediction" columns, we are able to visualize in a pie chart, the number of positive results vs the amount of negative results from our prediction.
- - Using the "City" and the "Prediction" columns, we will be able to display in a bar chart, the top 10 cities with the highest amount of positive results from our model. 
+ - Using the "City" and the "Prediction" columns, we will be able to display in a horizontal bar chart, the top 10 cities with the highest amount of positive results from our model. 
  - Using the "City" and the "City Development Index" columns, we are able to display in a line chart, the city develompment index of the previously mentioned top 10 cities.
  - Using the "Gender" and the "Prediction" columns, we are able visualize the distribution of positive results on a gender basis in a bar chart.
  - Using the "Prediction" and the "Company Size" columns, we will create a pie chart which displays the amount of positive results based on the company size. 
  - Using the "Prediction" and the "Company Type" columns, we will create a table which displays the amount of positive results based on the company type.
  - Using the "Prediction" and the "Education Level" columns, we are able to use a bubble chart in order to display the distribution of positive results based on the candidate's education level. 
- - Using the "Prediction" and the "Major Discipline" columns 
- - 
+ - Using the "Prediction" and the "Major Discipline" columns, we are able to use treemaps to visualize which major has the strongest amount of positive predictions.
+
+Once all of our visualizations are created individually in Tableau, they can be combined in a dashboard so they can all be seen on the same page. This will enable us to identify the features to look for or not to look for in a potential candidate. 
