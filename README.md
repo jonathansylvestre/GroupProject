@@ -37,3 +37,9 @@ Collaboration for this project will be done using Slack & Zoom
 ## Database
 
   Once we identified the best model for the data selected, we moved on to the next step which was to integrate a database to store both the cleaned data and our results. After reviewing the results of the model, we then combined our results with the cleaned data in order to have all the data in one table or dataframe. When dealing with the data storage part of the project, we selected PostgreSQL which is a free and open-source relational database management system emphasizing extensibility and SQL compliance. As we had previous experience with PostgreSQL via pgAdmin 4, it was only right that we use this tool in order to complete this task. We started by creating an entity relationship diagram (ERD) to provide us with a visual starting point for database design that could also be used to help determine information system requirements. Once that was complete we created the database (Job Changes) where we would save our tables. Once the database was created, we built our first table using a downloaded cleaned data CSV file from our jupiter notebook file. Before importing the CSV, we had to created the table and columns required to correctly import the information on the CSV. Using the import wizard we were able load the data from the CSV to the  previously created table and respective columns. 
+
+## Dashboard
+
+Once our tables are saved in our database, we are able to move on to our next step which is which is to create a dashboard using our predictions. For this of our project, we will be selecting Tableau Software to create our visualizations for our results. We will create multiple multiple visuals which we combined in order to create our dashboardwhich can be seen below. 
+
+![](
