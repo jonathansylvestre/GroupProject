@@ -32,5 +32,3 @@ Collaboration for this project will be done using Slack & Zoom. Meetings will be
 
 ## Google Slides Link
 https://docs.google.com/presentation/d/19yvc5F5R0JqQpFqk51--OJlVQDhfmNVJW1na33b-64M/edit?usp=sharing
-
-## Dashboard
