@@ -37,6 +37,7 @@ Collaboration for this project will be done using Slack & Zoom
 The data was was trained by turning weak learning algorithms into strong learners. The data went through a set of decision trees and each decision tree pushed aside easier weights to train on classifying difficult weights.
 ## Accuracy Score 
 ![](https://github.com/jonathansylvestre/GroupProject/blob/51f6e59f1fce26394034b372477a0e3ab60f1ca0/Resources/Screen%20Shot%202022-01-20%20at%208.23.32%20PM.png)
+
 The GradBoost model was able to calculate the highest accuracy score of 79.
 
 ## Database
