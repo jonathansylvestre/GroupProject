@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+HR_Smote.ipynb
+HR_ComboSamp.ipynb
